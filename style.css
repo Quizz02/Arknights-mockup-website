@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    /* border: 1px solid red; */
 }
 
 nav{
@@ -80,7 +79,6 @@ nav{
         right: 0px;
         height: 92vh;
         top: 8vh;
-        /* border: 1px solid red; */
         background-color: #252425;
         display: flex;
         flex-direction: column;
